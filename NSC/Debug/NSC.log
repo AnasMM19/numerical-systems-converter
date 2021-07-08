@@ -1,0 +1,12 @@
+﻿  LogicProject.cpp
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(173,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(196,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(219,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(242,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(262,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(282,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(302,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\LogicProject.cpp(325,31): warning C4018: '<': signed/unsigned mismatch
+  LogicProject.vcxproj -> C:\Users\Anas\Desktop\مكتبتي الجامعية\الفصل 2\logic\LogicProject\LogicProject\Debug\LogicProject.exe
